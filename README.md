@@ -1,1 +1,283 @@
-# rna2drawer2-readme-preview
+# RNA2Drawer 2
+
+A [web app](https://rna2drawer.app) for the interactive drawing of nucleic acid structures.
+Bases are automatically arranged to convey stems and loops
+and the layout of a drawing can be easily adjusted by dragging with the mouse.
+Drawings may be highly customized,
+including the fonts, colors and sizes of elements
+and outlines and numberings for bases.
+The entirety of the Leontis-Westhof notation
+for depicting canonical and non-canonical base-pairs
+is also supported.
+Drawings are exported in SVG and PowerPoint (PPTX) formats
+such that all elements of a drawing (e.g., bases and bonds)
+are exported as individual SVG and PowerPoint objects,
+allowing for further manipulation in a vector graphics editor such as Adobe Illustrator or PowerPoint.
+
+This project is a successor to the [first version](https://github.com/pzhaojohnson/RNA2Drawer#rna2drawer) of RNA2Drawer,
+which was published in the journal <em>RNA Biology</em>.
+
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Article:</b> [https://doi.org/10.1080/15476286.2019.1659081](https://doi.org/10.1080/15476286.2019.1659081)
+
+&nbsp;&nbsp;&nbsp;&nbsp;<b><em>If you use RNA2Drawer to draw structures in a publication, a citation is greatly appreciated!</em></b>
+
+If you have questions, find issues, or have feature requests, email [contact@rna2drawer.app](mailto:contact@rna2drawer.app) or open an issue thread here on GitHub.
+
+<p align="center" >
+  <img src="https://github.com/pzhaojohnson/rna2drawer2-demo/blob/main/example-drawing-1.svg" width="800px" />
+</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Creating a New Drawing](#creating-a-new-drawing)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Saving and Opening Drawings](#saving-and-opening-drawings)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Exporting Drawings](#exporting-drawings)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Tools](#tools)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Dragging Tool](#the-dragging-tool)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Pairing Tool](#the-pairing-tool)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Flattening Tool](#the-flattening-tool)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Flipping Tool](#the-flipping-tool)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Editing Tool](#the-editing-tool)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Straightening Stacked Stems](#straightening-stacked-stems)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Line Drawings](#line-drawings)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions](#frequently-asked-questions)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Funding](#funding)
+
+## Creating a New Drawing
+
+Open the form to create a new drawing
+using the button on the welcome page
+or via the `File`: `New` menu button.
+Structures may be input in dot-bracket notation
+(also sometimes called "Vienna" format),
+or as CT "Connectivity Table" files.
+Structure prediction programs
+such as Mfold and RNAfold
+produce CT files.
+
+Example structures in dot-bracket notation
+can also be loaded
+via the buttons at the top of the form.
+Parameters controlling how sequence and structure are parsed
+can also be adjusted
+via the `Details` toggles above the top-right corners
+of the sequence and structure text boxes.
+
+## Saving and Opening Drawings
+
+Drawings can be saved via the `File`: `Save` menu button,
+which will cause a file with `.rna2drawer2` extension to be downloaded.
+This file with `.rna2drawer2` extension
+contains a complete representation of your drawing.
+By default, the downloaded file will appear in your downloads folder,
+though this can be changed by changing the corresponding setting in your web browser.
+
+To open a saved drawing,
+go to the form to do so
+by using the button on the welcome page
+or via the `File`: `Open` menu button
+and upload your saved drawing
+(i.e., the file with `.rna2drawer2` extension).
+
+<b><em>Opening a saved drawing from before the RNA2Drawer web app.</em></b>
+Saved drawings from before the RNA2Drawer web app with `.rna2drawer` extension (missing the trailing "2") can also be opened,
+though not all aspects of a drawing will be preserved.
+A list of which aspects will be preserved
+can be shown by clicking on the `Details` toggle
+in the form to open saved drawings.
+
+## Exporting Drawings
+
+Drawings can be exported in SVG or PPTX format.
+SVG stands for scalable vector graphics
+and SVG files can be opened and edited
+with vector graphics editors
+such as Adobe Illustrator and Inkscape.
+PPTX is the main file format of PowerPoint.
+
+All elements of a drawing are exported as individual SVG and PPTX objects.
+For example, bases are exported as text boxes
+and primary and secondary bonds are exported as line objects.
+This facilitates further manipulation
+in vector graphics editors and PowerPoint.
+
+Forms to export the drawing
+are accessible via the `Export` dropdown.
+
+It is also possible to scale an exported drawing
+by specifying a scaling factor.
+For example, a scaling factor of "1" would result in no scaling of the exported drawing,
+while a scaling factor of "2" would result in an exported drawing
+that is double the size of what the drawing currently is in the app.
+
+## Tools
+
+The different tools of the app control how you interact with the drawing.
+Information and options pertaining to tools can be found in the bottom bar of the app towards the left.
+
+## The Dragging Tool
+
+With the dragging tool,
+stems and loops can be dragged
+while maintaining the arrangement of bases
+as stems and loops.
+
+https://user-images.githubusercontent.com/28662629/201531795-127de019-8db7-4d0b-bc16-dbf751dbcd92.mov
+
+Stems can also be dragged along flat loops
+and flat loops themselves can be moved up and down and rotated.
+
+https://user-images.githubusercontent.com/28662629/201533096-ced3dc40-f1c9-42a5-a68b-891cf5a0932a.mov
+
+By default, unpaired bases are compressed
+when a stem is dragged towards them.
+This behavior can be turned off
+by toggling the `Only Expand` option
+towards the bottom-left corner of the app.
+
+https://user-images.githubusercontent.com/28662629/201535121-5588b750-bc0e-4aa8-8ba8-a57be64f7f0e.mov
+
+## The Pairing Tool
+
+With the pairing tool,
+secondary and tertiary bonds can be added and removed.
+
+To select a subsequence of bases,
+click a base and drag the mouse over other bases to select.
+Clicking on another set of bases
+will pair them with the selected set of bases.
+In contrast, clicking on the selected set of bases
+will unpair them.
+
+By default, secondary bonds are added when possible.
+<b>To only add tertiary bonds,
+hold the</b> `shift` <b>key while clicking on the set of bases to pair with.</b>
+
+https://user-images.githubusercontent.com/28662629/201538339-7cd74caf-a9d5-4734-b120-78a269528517.mov
+
+Subsequences complementary to the selected subsequence
+can also be highlighted
+by toggling the `Show Complements` option
+towards the bottom-left corner of the app.
+
+Parameters controlling complement highlighting
+can be adjusted in the `Complement Rules` form
+accessible via the `Options` button next to the `Show Complements` toggle.
+
+https://user-images.githubusercontent.com/28662629/201539278-d0f2b4f1-0ffe-4383-84dc-8ab2539a49f2.mov
+
+## The Flattening Tool
+
+With the flattening tool,
+individual inner and outer loops
+can be flattened and unflattened.
+
+Notably, flattening a loop
+changes how stems in the loop can be dragged.
+Stems can be dragged along a flattened loop
+or dragged vertically
+to change the height of the flattened loop.
+
+https://user-images.githubusercontent.com/28662629/201540420-efb4932e-3a4c-46c4-9988-71df24679b61.mov
+
+## The Flipping Tool
+
+With the flipping tool,
+stems and loops can be flipped and unflipped.
+
+https://user-images.githubusercontent.com/28662629/201541074-75268222-c02d-4622-8425-d9237c1cbc3f.mov
+
+## The Editing Tool
+
+With the editing tool,
+different aspects of objects
+(e.g., fonts, colors, dimensions)
+can be edited.
+
+Objects can be selected by clicking on them
+or by dragging the blue selecting box over them.
+In the bottom-left corner of the app
+is also a toggle
+that controls what type of object is currently being selected and edited
+(e.g., bases, secondary bonds, numberings).
+
+When objects are selected,
+a form will appear on the right side of the app
+for editing the selected objects.
+
+Most objects can be removed from the drawing
+by pressing the `Delete` key
+while having them selected.
+(Primary bonds are one exception to this,
+as there is to always be one primary bond present
+between any two consecutive bases.)
+
+To deselect objects,
+click on any empty part of the drawing.
+
+https://user-images.githubusercontent.com/28662629/177567849-d684c6e3-21e0-448e-8249-ce47c2cc62e4.mov
+
+## Straightening Stacked Stems
+
+Flattening the loop between two stacked stems
+is an easy way to "straighten" them.
+
+https://user-images.githubusercontent.com/28662629/201556667-9f716740-cb64-4f27-8a3e-436d7ef9c7bc.mov
+
+## Line Drawings
+
+Below is an example of a line drawing.
+
+<p align="center" >
+  <img src="./demo/lineDrawing.svg" width="600px" />
+</p>
+
+The following attributes give it the appearance of a line drawing.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Font size of `9` for bases.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Line width of `9` and padding of `0` for primary bonds.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;An outline with radius of `4` and line width of `1` for all bases.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;All bases and primary bonds and the strokes and fills of all outlines have a color of `#999999`.
+
+## Frequently Asked Questions
+
+<em>How do I delete a tertiary bond?</em>
+While having the tertiary bond selected using the editing tool, press the `Delete` key.
+
+<em>How do I rotate a drawing?</em>
+A `Rotation` field is present in the `Layout` form.
+This form can be accessed via the `Edit`: `Layout` menu button.
+
+<em>How do I make colors transparent?</em>
+Most color picker swatches
+have a text box next to them
+that shows a percentage value
+controlling the opacity of the color.
+Opacity is the opposite of transparency
+(i.e., 100% opacity equals 0% transparency and vice versa),
+and so to make a color fully transparent,
+one would set its opacity to 0%.
+
+<em>How do I change the character of a base?</em>
+Using the editing tool,
+one can set the characters of bases by:
+1\) setting the editing tool to edit bases,
+2\) selecting the bases that one would like to edit,
+and 3\) entering the desired character into the `Character` field
+of the `Bases` form that will have appeared on the right side of the app.
+
+<em>How do I take a screenshot?</em>
+The app itself is unable to take screenshots,
+though most operating systems have built-in ways of taking screenshots
+of the whole screen or just a portion of the screen,
+such as the Snipping Tool on Windows.
+
+<em>Is there an easy way to "straighten" stacked stems?</em>
+Flattening the loop between two stacked stems
+is an easy way to "straighten" them.
+See section on [straightening stacked stems](#straightening-stacked-stems).
+
+<em>How do I create a line drawing?</em>
+See section on [line drawings](#line-drawings)
+
+## Funding
+
+This material is based upon work supported by the National Science Foundation Graduate Research Fellowship Program under Grant No. DGE 1840340.
