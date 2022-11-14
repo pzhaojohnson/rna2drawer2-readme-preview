@@ -225,7 +225,7 @@ https://user-images.githubusercontent.com/28662629/201556667-9f716740-cb64-4f27-
 ## Line Drawings
 
 <p align="center" >
-  <img width="500px" src="https://github.com/pzhaojohnson/rna2drawer2-demo/blob/main/line-drawing.svg" />
+  <img width="500px" src="https://user-images.githubusercontent.com/28662629/201732186-55ba8ba2-d866-4ba6-b997-6fa35f31bc11.svg" />
 </p>
 
 The following attributes give this drawing the appearance of a line drawing:
