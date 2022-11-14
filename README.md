@@ -27,19 +27,19 @@ If you have questions, find issues, or have feature requests, email [contact@rna
   <img src="https://user-images.githubusercontent.com/28662629/201731219-cb2adb6b-b2a1-47ce-b2a1-f20f457026ba.svg" />
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Creating a New Drawing](#creating-a-new-drawing)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Saving and Opening Drawings](#saving-and-opening-drawings)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Exporting Drawings](#exporting-drawings)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Tools](#tools)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Dragging Tool](#the-dragging-tool)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Pairing Tool](#the-pairing-tool)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Flattening Tool](#the-flattening-tool)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Flipping Tool](#the-flipping-tool)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Editing Tool](#the-editing-tool)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Straightening Stacked Stems](#straightening-stacked-stems)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Line Drawings](#line-drawings)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions](#frequently-asked-questions)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Funding](#funding)
+* [Creating a New Drawing](#creating-a-new-drawing)<br>
+* [Saving and Opening Drawings](#saving-and-opening-drawings)<br>
+* [Exporting Drawings](#exporting-drawings)<br>
+* [Tools](#tools)<br>
+  * [The Dragging Tool](#the-dragging-tool)<br>
+  * [The Pairing Tool](#the-pairing-tool)<br>
+  * [The Flattening Tool](#the-flattening-tool)<br>
+  * [The Flipping Tool](#the-flipping-tool)<br>
+  * [The Editing Tool](#the-editing-tool)<br>
+* [Straightening Stacked Stems](#straightening-stacked-stems)<br>
+* [Line Drawings](#line-drawings)<br>
+* [Frequently Asked Questions](#frequently-asked-questions)<br>
+* [Funding](#funding)
 
 ## Creating a New Drawing
 
