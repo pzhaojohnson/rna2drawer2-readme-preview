@@ -224,18 +224,21 @@ https://user-images.githubusercontent.com/28662629/201556667-9f716740-cb64-4f27-
 
 ## Line Drawings
 
-Below is an example of a line drawing.
-
 <p align="center" >
-  <img src="./demo/lineDrawing.svg" width="600px" />
+  <img width="500px" src="https://github.com/pzhaojohnson/rna2drawer2-demo/blob/main/line-drawing.svg" />
 </p>
 
-The following attributes give it the appearance of a line drawing.
+The following attributes give this drawing the appearance of a line drawing:
+* For all bases, font size of `9` and color of `#999999`.
+* For all primary bonds, line width of `9`, line color of `#999999`, and base padding of `0`.
+* For all bases, an outline with radius of `4`, line width of `1`, and line and fill colors of `#999999`.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Font size of `9` for bases.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Line width of `9` and padding of `0` for primary bonds.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;An outline with radius of `4` and line width of `1` for all bases.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;All bases and primary bonds and the strokes and fills of all outlines have a color of `#999999`.
+https://user-images.githubusercontent.com/28662629/201725511-2798964e-cdd6-4da3-a109-7a4567e1b1e2.mov
+
+<b>It is also possible to make only part of a drawing appear as a line drawing
+while keeping the rest of the drawing the same.</b>
+
+https://user-images.githubusercontent.com/28662629/201726046-e840d6c3-96c0-4d74-88a1-2821e1a97f28.mov
 
 ## Frequently Asked Questions
 
