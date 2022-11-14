@@ -24,7 +24,7 @@ which was published in the journal <em>RNA Biology</em>.
 If you have questions, find issues, or have feature requests, email [contact@rna2drawer.app](mailto:contact@rna2drawer.app) or open an issue thread here on GitHub.
 
 <p align="center" >
-  <img src="https://github.com/pzhaojohnson/rna2drawer2-demo/blob/main/example-drawing-1.svg" width="800px" />
+  <img src="https://user-images.githubusercontent.com/28662629/201731219-cb2adb6b-b2a1-47ce-b2a1-f20f457026ba.svg" />
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Creating a New Drawing](#creating-a-new-drawing)<br>
