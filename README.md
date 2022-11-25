@@ -27,19 +27,20 @@ If you have questions, find issues, or have feature requests, email [contact@rna
   <img src="https://user-images.githubusercontent.com/28662629/201731219-cb2adb6b-b2a1-47ce-b2a1-f20f457026ba.svg" />
 </p>
 
-* [Creating a New Drawing](#creating-a-new-drawing)<br>
-* [Saving and Opening Drawings](#saving-and-opening-drawings)<br>
-* [Exporting Drawings](#exporting-drawings)<br>
-* [Tools](#tools)<br>
-  * [The Dragging Tool](#the-dragging-tool)<br>
-  * [The Pairing Tool](#the-pairing-tool)<br>
-  * [The Flattening Tool](#the-flattening-tool)<br>
-  * [The Flipping Tool](#the-flipping-tool)<br>
-  * [The Editing Tool](#the-editing-tool)<br>
-* [Strung Elements (Non-Canonical Base-Pairs)](#strung-elements-non-canonical-base-pairs)
-* [Straightening Stacked Stems](#straightening-stacked-stems)<br>
-* [Line Drawings](#line-drawings)<br>
-* [Frequently Asked Questions](#frequently-asked-questions)<br>
+* [Creating a New Drawing](#creating-a-new-drawing)
+* [Saving and Opening Drawings](#saving-and-opening-drawings)
+* [Exporting Drawings](#exporting-drawings)
+* [Tools](#tools)
+  * [The Dragging Tool](#the-dragging-tool)
+  * [The Pairing Tool](#the-pairing-tool)
+  * [The Flattening Tool](#the-flattening-tool)
+  * [The Flipping Tool](#the-flipping-tool)
+  * [The Editing Tool](#the-editing-tool)
+* [Strung Elements and Non-Canonical Base-Pairs](#strung-elements-and-non-canonical-base-pairs)
+* [GU Wobble Base-Pairs as Dots](#gu-wobble-base-pairs-as-dots)
+* [Straightening Stacked Stems](#straightening-stacked-stems)
+* [Line Drawings](#line-drawings)
+* [Frequently Asked Questions](#frequently-asked-questions)
 * [Funding](#funding)
 
 ## Creating a New Drawing
@@ -216,7 +217,7 @@ click on any empty part of the drawing.
 
 https://user-images.githubusercontent.com/28662629/177567849-d684c6e3-21e0-448e-8249-ce47c2cc62e4.mov
 
-## Strung Elements (Non-Canonical Base-Pairs)
+## Strung Elements and Non-Canonical Base-Pairs
 
 Elements such as squares, circles, triangles and text
 can be "strung" on the lines of bonds.
@@ -225,6 +226,15 @@ using the [Leontis-Westhof notation](https://pubmed.ncbi.nlm.nih.gov/11345429/),
 for instance.
 
 https://user-images.githubusercontent.com/28662629/204032919-258d775e-bae5-4c5b-a58f-b8e2c119c4ff.mov
+
+## GU Wobble Base-Pairs as Dots
+
+GU wobble base-pairs can be depicted as dots
+(solid or hollow)
+by adding a circle strung element
+and making the line of the bond invisible.
+
+https://user-images.githubusercontent.com/28662629/204035049-c93df9ee-7dac-4d7d-9896-4d1ec2b56d68.mov
 
 ## Straightening Stacked Stems
 
