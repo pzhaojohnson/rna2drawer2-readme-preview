@@ -40,6 +40,7 @@ If you have questions, find issues, or have feature requests, email [contact@rna
 * [GU Wobble Base-Pairs as Dots](#gu-wobble-base-pairs-as-dots)
 * [GC Base-Pairs as Double Lines](#gc-base-pairs-as-double-lines)
 * [Text Labels](#text-labels)
+* [Base Markers](#base-markers)
 * [Straightening Stacked Stems](#straightening-stacked-stems)
 * [Line Drawings](#line-drawings)
 * [Frequently Asked Questions](#frequently-asked-questions)
@@ -258,6 +259,19 @@ with respect to both position and orientation
 whenever the layout of the drawing is adjusted.
 
 https://user-images.githubusercontent.com/28662629/204042730-f590a4e1-e7ee-412f-bfc4-81cae01c24e5.mov
+
+## Base Markers
+
+Strung elements of bonds
+(e.g., colored triangles and circles)
+can be dragged next to bases
+to mark them with extra information.
+Due to being strung elements,
+these base markers will maintain their orientation
+(relative to the bond that they are strung on)
+whenever the layout of the drawing is adjusted.
+
+https://user-images.githubusercontent.com/28662629/204045785-fd8d30e2-0069-41d1-baf7-5cda1d77bb54.mov
 
 ## Straightening Stacked Stems
 
