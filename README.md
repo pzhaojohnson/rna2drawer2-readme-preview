@@ -301,6 +301,10 @@ https://user-images.githubusercontent.com/28662629/201726046-e840d6c3-96c0-4d74-
 
 ## Outlining Subsequences of Bases
 
+<p align="center" >
+  <img width="760px" src="https://user-images.githubusercontent.com/28662629/204055802-ec365bb8-dcea-45af-91fa-3ea51120c1ec.svg" />
+</p>
+
 Subsequences of bases can be outlined
 with some creative styling
 of primary bonds and strung elements
