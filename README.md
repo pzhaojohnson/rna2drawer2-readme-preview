@@ -36,6 +36,7 @@ If you have questions, find issues, or have feature requests, email [contact@rna
   * [The Flattening Tool](#the-flattening-tool)<br>
   * [The Flipping Tool](#the-flipping-tool)<br>
   * [The Editing Tool](#the-editing-tool)<br>
+* [Strung Elements (Non-Canonical Base-Pairs)](#strung-elements-non-canonical-base-pairs)
 * [Straightening Stacked Stems](#straightening-stacked-stems)<br>
 * [Line Drawings](#line-drawings)<br>
 * [Frequently Asked Questions](#frequently-asked-questions)<br>
