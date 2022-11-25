@@ -215,6 +215,16 @@ click on any empty part of the drawing.
 
 https://user-images.githubusercontent.com/28662629/177567849-d684c6e3-21e0-448e-8249-ce47c2cc62e4.mov
 
+## Strung Elements (Non-Canonical Base-Pairs)
+
+Elements such as squares, circles, triangles and text
+can be "strung" on the lines of bonds.
+This allows for non-canonical base-pairs to be depicted
+using the [Leontis-Westhof notation](https://pubmed.ncbi.nlm.nih.gov/11345429/),
+for instance.
+
+https://user-images.githubusercontent.com/28662629/204032919-258d775e-bae5-4c5b-a58f-b8e2c119c4ff.mov
+
 ## Straightening Stacked Stems
 
 Flattening the loop between two stacked stems
