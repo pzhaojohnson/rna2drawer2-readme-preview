@@ -43,6 +43,7 @@ If you have questions, find issues, or have feature requests, email [contact@rna
 * [Base Markers](#base-markers)
 * [Straightening Stacked Stems](#straightening-stacked-stems)
 * [Line Drawings](#line-drawings)
+* [Outlining Subsequences of Bases](#outlining-subsequences-of-bases)
 * [Frequently Asked Questions](#frequently-asked-questions)
 * [Funding](#funding)
 
@@ -297,6 +298,15 @@ https://user-images.githubusercontent.com/28662629/201725511-2798964e-cdd6-4da3-
 while keeping the rest of the drawing the same.</b>
 
 https://user-images.githubusercontent.com/28662629/201726046-e840d6c3-96c0-4d74-88a1-2821e1a97f28.mov
+
+## Outlining Subsequences of Bases
+
+Subsequences of bases can be outlined
+with some creative styling
+of primary bonds and strung elements
+and the outlines of individual bases.
+
+https://user-images.githubusercontent.com/28662629/204053764-1df8f527-be49-4abb-8e93-1965c41a2e20.mov
 
 ## Frequently Asked Questions
 
