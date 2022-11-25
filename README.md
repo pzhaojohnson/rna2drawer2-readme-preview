@@ -36,6 +36,7 @@ If you have questions, find issues, or have feature requests, email [contact@rna
   * [The Flattening Tool](#the-flattening-tool)
   * [The Flipping Tool](#the-flipping-tool)
   * [The Editing Tool](#the-editing-tool)
+* [Removing Elements](#removing-elements)
 * [Strung Elements and Non-Canonical Base-Pairs](#strung-elements-and-non-canonical-base-pairs)
 * [GU Wobble Base-Pairs as Dots](#gu-wobble-base-pairs-as-dots)
 * [GC Base-Pairs as Double Lines](#gc-base-pairs-as-double-lines)
@@ -209,17 +210,23 @@ When objects are selected,
 a form will appear on the right side of the app
 for editing the selected objects.
 
-Most objects can be removed from the drawing
-by pressing the `Delete` key
-while having them selected.
-(Primary bonds are one exception to this,
-as there is to always be one primary bond present
-between any two consecutive bases.)
-
 To deselect objects,
 click on any empty part of the drawing.
 
 https://user-images.githubusercontent.com/28662629/177567849-d684c6e3-21e0-448e-8249-ce47c2cc62e4.mov
+
+## Removing Elements
+
+<b>Most elements can be removed
+using the editing tool
+by pressing the</b> `Delete` <b>key
+while having the elements selected.</b>
+
+Primary bonds are one exception to this.
+(There will always be one primary bond
+between each consecutive pair of bases.)
+
+https://user-images.githubusercontent.com/28662629/204057979-38a49dd8-f394-423d-a914-ff8c6bec035f.mov
 
 ## Strung Elements and Non-Canonical Base-Pairs
 
