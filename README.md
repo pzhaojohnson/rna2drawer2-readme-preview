@@ -38,6 +38,7 @@ If you have questions, find issues, or have feature requests, email [contact@rna
   * [The Editing Tool](#the-editing-tool)
 * [Strung Elements and Non-Canonical Base-Pairs](#strung-elements-and-non-canonical-base-pairs)
 * [GU Wobble Base-Pairs as Dots](#gu-wobble-base-pairs-as-dots)
+* [GC Base-Pairs as Double Lines](#gc-base-pairs-as-double-lines)
 * [Straightening Stacked Stems](#straightening-stacked-stems)
 * [Line Drawings](#line-drawings)
 * [Frequently Asked Questions](#frequently-asked-questions)
@@ -235,6 +236,14 @@ by adding a circle strung element
 and making the line of the bond invisible.
 
 https://user-images.githubusercontent.com/28662629/204035049-c93df9ee-7dac-4d7d-9896-4d1ec2b56d68.mov
+
+## GC Base-Pairs as Double Lines
+
+One way to depict GC base-pairs as double lines
+is to add a white rectangle strung element to all GC bonds
+that covers the middle portion of the line for all GC bonds.
+
+https://user-images.githubusercontent.com/28662629/204040327-eb28ff0a-099c-4aee-832c-cda85425aba3.mov
 
 ## Straightening Stacked Stems
 
