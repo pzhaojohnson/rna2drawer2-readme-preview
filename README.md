@@ -39,6 +39,7 @@ If you have questions, find issues, or have feature requests, email [contact@rna
 * [Strung Elements and Non-Canonical Base-Pairs](#strung-elements-and-non-canonical-base-pairs)
 * [GU Wobble Base-Pairs as Dots](#gu-wobble-base-pairs-as-dots)
 * [GC Base-Pairs as Double Lines](#gc-base-pairs-as-double-lines)
+* [Text Labels](#text-labels)
 * [Straightening Stacked Stems](#straightening-stacked-stems)
 * [Line Drawings](#line-drawings)
 * [Frequently Asked Questions](#frequently-asked-questions)
@@ -244,6 +245,19 @@ is to add a white rectangle strung element to all GC bonds
 that covers the middle portion of the line for all GC bonds.
 
 https://user-images.githubusercontent.com/28662629/204040327-eb28ff0a-099c-4aee-832c-cda85425aba3.mov
+
+## Text Labels
+
+Text labels can be added to structural features
+(e.g., hairpins, loops)
+by adding a text strung element
+to a bond that is part of the structural feature.
+Due to being strung elements,
+the text labels will move along with the structural feature
+with respect to both position and orientation
+whenever the layout of the drawing is adjusted.
+
+https://user-images.githubusercontent.com/28662629/204042730-f590a4e1-e7ee-412f-bfc4-81cae01c24e5.mov
 
 ## Straightening Stacked Stems
 
