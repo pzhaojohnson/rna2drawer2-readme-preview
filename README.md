@@ -213,7 +213,7 @@ for editing the selected objects.
 To deselect objects,
 click on any empty part of the drawing.
 
-https://user-images.githubusercontent.com/28662629/177567849-d684c6e3-21e0-448e-8249-ce47c2cc62e4.mov
+https://user-images.githubusercontent.com/28662629/204059340-c9e76f25-bb81-4186-a579-30185dab27e3.mov
 
 ## Removing Elements
 
