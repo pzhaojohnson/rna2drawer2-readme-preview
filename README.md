@@ -225,7 +225,7 @@ This allows for non-canonical base-pairs to be depicted
 using the [Leontis-Westhof notation](https://pubmed.ncbi.nlm.nih.gov/11345429/),
 for instance.
 
-https://user-images.githubusercontent.com/28662629/204032919-258d775e-bae5-4c5b-a58f-b8e2c119c4ff.mov
+https://user-images.githubusercontent.com/28662629/204038687-60fcca31-92a4-4080-9d0a-3b4cd611add4.mov
 
 ## GU Wobble Base-Pairs as Dots
 
