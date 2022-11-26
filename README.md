@@ -74,7 +74,7 @@ of the sequence and structure text boxes.
 Drawings can be saved using the `File`: `Save` menu button,
 which will cause a file with `.rna2drawer2` extension to be downloaded.
 This file with `.rna2drawer2` extension
-contains a complete representation of your drawing.
+contains a complete representation of the drawing.
 By default, the downloaded file will appear in your downloads folder,
 though this can be changed by changing the corresponding setting in your web browser.
 
