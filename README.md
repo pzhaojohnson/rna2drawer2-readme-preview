@@ -278,6 +278,10 @@ https://user-images.githubusercontent.com/28662629/204040327-eb28ff0a-099c-4aee-
 
 ## Text Labels
 
+<p align="center" >
+  <img width="750px" src="https://user-images.githubusercontent.com/28662629/204093848-80b5b7bf-5692-43ee-bc4c-9131b1b36b54.svg" />
+</p>
+
 Text labels can be added to structural features
 (e.g., hairpins, loops)
 by adding a text strung element
