@@ -37,6 +37,7 @@ If you have questions, find issues, or have feature requests, email [contact@rna
   * [The Flipping Tool](#the-flipping-tool)
   * [The Editing Tool](#the-editing-tool)
 * [Removing Elements](#removing-elements)
+* [Adding Tertiary Bonds in Place of Secondary Bonds](#adding-tertiary-bonds-in-place-of-secondary-bonds)
 * [Strung Elements and Non-Canonical Base-Pairs](#strung-elements-and-non-canonical-base-pairs)
 * [GU Wobble Base-Pairs as Dots](#gu-wobble-base-pairs-as-dots)
 * [GC Base-Pairs as Double Lines](#gc-base-pairs-as-double-lines)
@@ -227,6 +228,14 @@ Primary bonds are one exception to this.
 between each consecutive pair of bases.)
 
 https://user-images.githubusercontent.com/28662629/204057979-38a49dd8-f394-423d-a914-ff8c6bec035f.mov
+
+## Adding Tertiary Bonds in Place of Secondary Bonds
+
+By default, the pairing tool pairs bases with secondary bonds when possible.
+Tertiary bonds can be added instead by holding the `Shift` key
+when pairing bases.
+
+https://user-images.githubusercontent.com/28662629/204090271-02ea5b17-f24a-486a-a055-35b77491f0c6.mov
 
 ## Strung Elements and Non-Canonical Base-Pairs
 
