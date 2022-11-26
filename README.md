@@ -368,14 +368,14 @@ and press the `Delete` key.
 A `Rotation` field is present in the `Layout` form.
 This form can be accessed via the `Edit`: `Layout` menu button.
 
-<em>How do I make colors transparent?</em>
+<em>How can I make colors transparent?</em>
 Most color picker swatches
 have a text box next to them
-that shows a percentage value
-controlling the opacity of the color.
+holding a percentage value.
+This percentage value is the opacity of the color.
 Opacity is the opposite of transparency
-(i.e., 100% opacity equals 0% transparency and vice versa),
-and so to make a color fully transparent,
+(i.e., 100% opacity equals 0% transparency and vice versa).
+To make a color fully transparent,
 one would set its opacity to 0%.
 
 <em>How do I change the character of a base?</em>
