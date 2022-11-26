@@ -386,7 +386,7 @@ one would:
 and 3\) enter the desired character into the `Character` field
 of the `Bases` form that will have appeared on the right side of the app.
 
-<em>How do I take a screenshot?</em>
+<em>How can I take a screenshot?</em>
 The app itself is unable to take screenshots,
 though most operating systems have built-in ways of taking screenshots
 of the whole screen or just a portion of the screen,
