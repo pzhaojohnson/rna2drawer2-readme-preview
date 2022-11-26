@@ -71,7 +71,7 @@ of the sequence and structure text boxes.
 
 ## Saving and Opening Drawings
 
-Drawings can be saved via the `File`: `Save` menu button,
+Drawings can be saved using the `File`: `Save` menu button,
 which will cause a file with `.rna2drawer2` extension to be downloaded.
 This file with `.rna2drawer2` extension
 contains a complete representation of your drawing.
