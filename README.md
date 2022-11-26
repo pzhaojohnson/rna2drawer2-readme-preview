@@ -113,7 +113,7 @@ It is also possible to scale an exported drawing
 by specifying a scaling factor in these forms.
 For example, a scaling factor of "1" would result in no scaling of the exported drawing,
 while a scaling factor of "2" would result in an exported drawing
-that is double the size of what the drawing currently is in the app.
+that is double the size of what it was in the app.
 
 ## Tools
 
