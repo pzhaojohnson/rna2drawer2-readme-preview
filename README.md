@@ -97,7 +97,7 @@ in the form to open saved drawings.
 Drawings can be exported in SVG and PPTX formats.
 SVG stands for scalable vector graphics
 and SVG files can be opened and edited
-with vector graphics editors
+in vector graphics editors
 such as Adobe Illustrator and Inkscape.
 PPTX is the main file format of PowerPoint.
 
