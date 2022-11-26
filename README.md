@@ -146,18 +146,19 @@ https://user-images.githubusercontent.com/28662629/201535121-5588b750-bc0e-4aa8-
 ## The Pairing Tool
 
 With the pairing tool,
-secondary and tertiary bonds can be added and removed.
+bases can be paired and unpaired
+by adding and removing secondary and tertiary bonds.
 
 To select a subsequence of bases,
-click a base and drag the mouse over other bases to select.
+click on a base and drag the mouse over the other bases to select.
 Clicking on another set of bases
 will pair them with the selected set of bases.
 In contrast, clicking on the selected set of bases
 will unpair them.
 
 By default, secondary bonds are added when possible.
-<b>To only add tertiary bonds,
-hold the</b> `shift` <b>key while clicking on the set of bases to pair with.</b>
+<b>To add tertiary bonds in place of secondary bonds,
+hold the</b> `shift` <b>key when pairing bases.</b>
 
 https://user-images.githubusercontent.com/28662629/201538339-7cd74caf-a9d5-4734-b120-78a269528517.mov
 
