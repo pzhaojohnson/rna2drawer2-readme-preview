@@ -102,13 +102,13 @@ such as Adobe Illustrator and Inkscape.
 PPTX is the main file format of PowerPoint.
 
 All elements of a drawing are exported as individual SVG and PPTX objects.
-For example, bases are exported as text boxes
+For instance, bases are exported as text boxes
 and primary and secondary bonds are exported as line objects.
-This facilitates further manipulation
+This facilitates further manipulation of the exported drawing
 in vector graphics editors and PowerPoint.
 
-Forms to export the drawing
-are accessible via the `Export` dropdown.
+The forms to export drawings
+can be accessed via the `Export` dropdown menu.
 
 It is also possible to scale an exported drawing
 by specifying a scaling factor.
