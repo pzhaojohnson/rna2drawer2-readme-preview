@@ -378,12 +378,12 @@ Opacity is the opposite of transparency
 To make a color fully transparent,
 one would set its opacity to 0%.
 
-<em>How do I change the character of a base?</em>
+<em>How can I change the characters of bases?</em>
 Using the editing tool,
-one can set the characters of bases by:
-1\) setting the editing tool to edit bases,
-2\) selecting the bases that one would like to edit,
-and 3\) entering the desired character into the `Character` field
+one would:
+1\) set the editing tool to edit bases,
+2\) select the bases that one would like to edit,
+and 3\) enter the desired character into the `Character` field
 of the `Bases` form that will have appeared on the right side of the app.
 
 <em>How do I take a screenshot?</em>
