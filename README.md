@@ -213,6 +213,7 @@ a form will appear on the right side of the app
 for editing the selected elements.
 
 <b>Most elements can be removed
+from the drawing
 by pressing the</b> `Delete` <b>key
 while having the elements selected.</b>
 Primary bonds are one exception to this.
