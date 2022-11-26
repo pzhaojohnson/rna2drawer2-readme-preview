@@ -87,9 +87,9 @@ and upload your saved drawing
 
 <b><em>Opening a saved drawing from before the RNA2Drawer web app.</em></b>
 Saved drawings from before the RNA2Drawer web app with `.rna2drawer` extension (missing the trailing "2") can also be opened,
-though not all aspects of a drawing will be preserved.
+though not all aspects of the drawing will be preserved.
 A list of which aspects will be preserved
-can be shown by clicking on the `Details` toggle
+can be viewed by clicking on the `Details` toggle
 in the form to open saved drawings.
 
 ## Exporting Drawings
