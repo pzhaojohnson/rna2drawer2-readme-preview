@@ -364,7 +364,7 @@ Using the editing tool,
 select the tertiary bond
 and press the `Delete` key.
 
-<em>How do I rotate a drawing?</em>
+<em>How can I rotate the drawing?</em>
 A `Rotation` field is present in the `Layout` form.
 This form can be accessed via the `Edit`: `Layout` menu button.
 
