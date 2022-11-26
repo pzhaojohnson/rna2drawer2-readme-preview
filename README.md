@@ -253,6 +253,10 @@ https://user-images.githubusercontent.com/28662629/204038687-60fcca31-92a4-4080-
 
 ## GU Wobble Base-Pairs as Dots
 
+<p align="center" >
+  <img width="640px" src="https://user-images.githubusercontent.com/28662629/204091623-001ed7c7-b832-42d4-9d35-c3ec9b9b9a02.svg" />
+</p>
+
 GU wobble base-pairs can be depicted as dots
 (solid or hollow)
 by adding a circle strung element
