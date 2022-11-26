@@ -51,8 +51,8 @@ If you have questions, find issues, or have feature requests, email [contact@rna
 
 ## Creating a New Drawing
 
-Open the form to create a new drawing
-using the button on the welcome page
+The form to create a new drawing
+can be accessed using the button on the welcome page
 or via the `File`: `New` menu button.
 Structures may be input in dot-bracket notation
 (also sometimes called "Vienna" format),
