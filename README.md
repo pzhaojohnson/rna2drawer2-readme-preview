@@ -266,6 +266,10 @@ https://user-images.githubusercontent.com/28662629/204035049-c93df9ee-7dac-4d7d-
 
 ## GC Base-Pairs as Double Lines
 
+<p align="center" >
+  <img width="640px" src="https://user-images.githubusercontent.com/28662629/204092255-3bc0a556-5daf-4161-9b30-c060342379f6.svg" />
+</p>
+
 One way to depict GC base-pairs as double lines
 is to add a white rectangle strung element to all GC bonds
 that covers the middle portion of the line for all GC bonds.
