@@ -118,7 +118,8 @@ that is double the size of what it was in the app.
 ## Tools
 
 The different tools of the app control how you interact with the drawing.
-Information and options pertaining to tools can be found in the bottom bar of the app towards the left.
+Information and options pertaining to the tools of the app
+can be found towards the bottom-left corner of the app.
 
 ## The Dragging Tool
 
