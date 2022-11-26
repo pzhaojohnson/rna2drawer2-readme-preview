@@ -4,7 +4,7 @@ A [web app](https://rna2drawer.app) for the interactive drawing of nucleic acid 
 Bases are automatically arranged to convey stems and loops
 and the layout of a drawing can be easily adjusted by dragging with the mouse.
 Drawings may be highly customized,
-including the fonts, colors and sizes of elements
+including the fonts, colors and dimensions of elements
 and outlines and numberings for bases.
 The entirety of the Leontis-Westhof notation
 for depicting canonical and non-canonical base-pairs
