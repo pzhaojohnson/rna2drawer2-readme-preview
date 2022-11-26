@@ -239,6 +239,10 @@ https://user-images.githubusercontent.com/28662629/204090271-02ea5b17-f24a-486a-
 
 ## Strung Elements and Non-Canonical Base-Pairs
 
+<p align="center" >
+  <img width="640px" src="https://user-images.githubusercontent.com/28662629/204091063-8ef7b92f-e15c-4f8f-a1ad-bb833e145b51.svg" />
+</p>
+
 Elements such as squares, circles, triangles and text
 can be "strung" on the lines of bonds.
 This allows for non-canonical base-pairs to be depicted
