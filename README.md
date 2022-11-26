@@ -397,8 +397,8 @@ Flattening the loop between two stacked stems
 is an easy way to "straighten" them.
 See section on [straightening stacked stems](#straightening-stacked-stems).
 
-<em>How do I create a line drawing?</em>
-See section on [line drawings](#line-drawings)
+<em>How do I create a drawing that is an outline of a structure?</em>
+See section on [line drawings](#line-drawings).
 
 ## Funding
 
