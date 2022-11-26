@@ -62,11 +62,11 @@ such as Mfold and RNAfold
 produce CT files.
 
 Example structures in dot-bracket notation
-can also be loaded
-via the buttons at the top of the form.
-Parameters controlling how sequence and structure are parsed
-can also be adjusted
-via the `Details` toggles above the top-right corners
+can be loaded
+using the buttons towards the top of the form.
+Options controlling how the sequence and structure are parsed
+can be viewed and adjusted
+using the `Details` toggles above the top-right corners
 of the sequence and structure text boxes.
 
 ## Saving and Opening Drawings
