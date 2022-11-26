@@ -197,22 +197,29 @@ https://user-images.githubusercontent.com/28662629/201541074-75268222-c02d-4622-
 ## The Editing Tool
 
 With the editing tool,
-different aspects of objects
+different aspects of elements
 (e.g., fonts, colors, dimensions)
 can be edited.
 
-Objects can be selected by clicking on them
+Elements can be selected by clicking on them
 or by dragging the blue selecting box over them.
-In the bottom-left corner of the app
+Towards the bottom-left corner of the app
 is also a toggle
-that controls what type of object is currently being selected and edited
+that controls what type of elements are currently being selected and edited
 (e.g., bases, secondary bonds, numberings).
 
-When objects are selected,
+When elements are selected,
 a form will appear on the right side of the app
-for editing the selected objects.
+for editing the selected elements.
 
-To deselect objects,
+<b>Most elements can be removed
+by pressing the</b> `Delete` <b>key
+while having the elements selected.</b>
+Primary bonds are one exception to this.
+(There will always be one primary bond
+between each consecutive pair of bases.)
+
+To deselect elements,
 click on any empty part of the drawing.
 
 https://user-images.githubusercontent.com/28662629/204059340-c9e76f25-bb81-4186-a579-30185dab27e3.mov
