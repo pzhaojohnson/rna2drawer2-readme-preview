@@ -55,7 +55,7 @@ The form to create a new drawing
 can be accessed using the button on the welcome page
 or via the `File`: `New` menu button.
 Structures may be input in dot-bracket notation
-(also sometimes called "Vienna" format),
+(also sometimes called "Vienna" format)
 or as CT "Connectivity Table" files.
 Structure prediction programs
 such as Mfold and RNAfold
