@@ -295,6 +295,10 @@ https://user-images.githubusercontent.com/28662629/204042730-f590a4e1-e7ee-412f-
 
 ## Base Markers
 
+<p align="center" >
+  <img width="760px" src="https://user-images.githubusercontent.com/28662629/204095674-cf095ca5-aef7-4d6f-a38e-0d10e787e2da.svg" />
+</p>
+
 Strung elements of bonds
 (e.g., colored triangles and circles)
 can be dragged next to bases
