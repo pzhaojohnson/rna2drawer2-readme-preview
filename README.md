@@ -360,7 +360,9 @@ https://user-images.githubusercontent.com/28662629/204053764-1df8f527-be49-4abb-
 ## Frequently Asked Questions
 
 <em>How do I delete a tertiary bond?</em>
-While having the tertiary bond selected using the editing tool, press the `Delete` key.
+Using the editing tool,
+select the tertiary bond
+and press the `Delete` key.
 
 <em>How do I rotate a drawing?</em>
 A `Rotation` field is present in the `Layout` form.
