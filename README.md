@@ -94,7 +94,7 @@ in the form to open saved drawings.
 
 ## Exporting Drawings
 
-Drawings can be exported in SVG or PPTX format.
+Drawings can be exported in SVG and PPTX formats.
 SVG stands for scalable vector graphics
 and SVG files can be opened and edited
 with vector graphics editors
