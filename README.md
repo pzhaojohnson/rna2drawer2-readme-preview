@@ -38,6 +38,7 @@ If you have questions, find issues, or have feature requests, email [contact@rna
   * [The Editing Tool](#the-editing-tool)
 * [Removing Elements](#removing-elements)
 * [Adding Tertiary Bonds in Place of Secondary Bonds](#adding-tertiary-bonds-in-place-of-secondary-bonds)
+* [Precisely Rotating the Drawing](#precisely-rotating-the-drawing)
 * [Strung Elements and Non-Canonical Base-Pairs](#strung-elements-and-non-canonical-base-pairs)
 * [GU Wobble Base-Pairs as Dots](#gu-wobble-base-pairs-as-dots)
 * [GC Base-Pairs as Double Lines](#gc-base-pairs-as-double-lines)
@@ -245,6 +246,14 @@ Tertiary bonds can be added instead by holding the `Shift` key
 when pairing bases.
 
 https://user-images.githubusercontent.com/28662629/204090271-02ea5b17-f24a-486a-a055-35b77491f0c6.mov
+
+## Precisely Rotating the Drawing
+
+The drawing can be precisely rotated
+using the `Rotation` field in the `Layout` form
+accessible via the `Edit`: `Layout` menu button.
+
+https://user-images.githubusercontent.com/28662629/204422892-a50906a8-34d9-4a3b-b912-c4232c2be876.mov
 
 ## Strung Elements and Non-Canonical Base-Pairs
 
