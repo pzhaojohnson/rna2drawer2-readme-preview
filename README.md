@@ -376,6 +376,8 @@ and press the `Delete` key.
 <em>How can I rotate the drawing?</em>
 A `Rotation` field is present in the `Layout` form.
 This form can be accessed via the `Edit`: `Layout` menu button.
+See section on
+[precisely rotating the drawing](#precisely-rotating-the-drawing).
 
 <em>How can I make colors transparent?</em>
 Most color picker swatches
