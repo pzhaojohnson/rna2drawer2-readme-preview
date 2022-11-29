@@ -270,10 +270,24 @@ In the video below,
 the `Bases by Data` form
 is used to color the bases of a hairpin
 according to some example chemical probing data.
-First bases with low reactivity (values between 0 and 0.2) are colored black.
-Then bases with mild reactivity (values between 0.21 and 0.6) are colored green.
-Then bases with moderate reactivity (values between 0.61 and 0.8) are colored orange.
-And finally bases with high reactivity (values between 0.81 and 1.2) are colored red.
+
+First the example chemical probing data is pasted into the data text box
+and the start position of the data (position 4) is input.
+
+Then bases with low reactivity (values between 0 and 0.2) are selected
+and given black outlines and white text colors.
+
+Then the `Bases by Data` form is returned to
+so that bases with mild reactivity (values between 0.21 and 0.6)
+can be selected and given green outlines and text colors.
+
+Then the `Bases by Data` form is returned to again
+so that bases with moderate reactivity (values between 0.61 and 0.8)
+can be selected and given orange outlines and text colors.
+
+And finally the `Bases by Data` form is returned to
+so that bases with high reactivity (values between 0.81 and 1.2)
+can be selected and given red outlines and text colors.
 
 https://user-images.githubusercontent.com/28662629/204619525-cca12f8f-f582-4c2c-8331-b886badf0528.mov
 
