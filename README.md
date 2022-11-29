@@ -422,6 +422,10 @@ Opacity is the opposite of transparency
 To make a color fully transparent,
 one would set its opacity to 0%.
 
+<em>How can I color bases according to SHAPE data
+or other chemical probing data?</em>
+See section on [coloring bases according to data](#coloring-bases-according-to-data).
+
 <em>How can I change the characters of bases?</em>
 Using the editing tool,
 one would:
