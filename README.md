@@ -47,6 +47,7 @@ If you have questions, find issues, or have feature requests, email [contact@rna
 * [Straightening Stacked Stems](#straightening-stacked-stems)
 * [Line Drawings](#line-drawings)
 * [Outlining Subsequences of Bases](#outlining-subsequences-of-bases)
+* [Motif Finding](#motif-finding)
 * [Frequently Asked Questions](#frequently-asked-questions)
 * [Funding](#funding)
 
@@ -365,6 +366,17 @@ of primary bonds and strung elements
 and the outlines of individual bases.
 
 https://user-images.githubusercontent.com/28662629/204053764-1df8f527-be49-4abb-8e93-1965c41a2e20.mov
+
+## Motif Finding
+
+The `Find Motifs` form can be accessed
+using the button towards the bottom-right corner of the app.
+The `Find Motifs` form supports
+partial mismatching,
+[IUPAC single letter codes](https://www.bioinformatics.org/sms/iupac.html),
+and [regular expressions](https://regexone.com/).
+
+https://user-images.githubusercontent.com/28662629/204537132-4d628d7d-f8f0-47e3-95c3-b7e5b7db5e0a.mov
 
 ## Frequently Asked Questions
 
