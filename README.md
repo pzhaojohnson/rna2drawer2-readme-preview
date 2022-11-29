@@ -39,6 +39,7 @@ If you have questions, find issues, or have feature requests, email [contact@rna
 * [Removing Elements](#removing-elements)
 * [Adding Tertiary Bonds in Place of Secondary Bonds](#adding-tertiary-bonds-in-place-of-secondary-bonds)
 * [Precisely Rotating the Drawing](#precisely-rotating-the-drawing)
+* [Coloring Bases According to Data](#coloring-bases-according-to-data)
 * [Strung Elements and Non-Canonical Base-Pairs](#strung-elements-and-non-canonical-base-pairs)
 * [GU Wobble Base-Pairs as Dots](#gu-wobble-base-pairs-as-dots)
 * [GC Base-Pairs as Double Lines](#gc-base-pairs-as-double-lines)
@@ -255,6 +256,26 @@ using the `Rotation` field in the `Layout` form
 accessible via the `Edit`: `Layout` menu button.
 
 https://user-images.githubusercontent.com/28662629/204422892-a50906a8-34d9-4a3b-b912-c4232c2be876.mov
+
+## Coloring Bases According to Data
+
+The `Bases by Data` form
+(accessed using the `Edit`: `Bases`: `By Data` menu button)
+allows bases to be selected and edited
+according to whether a base falls into a specified range of data.
+This allows bases to be colored according to chemical probing data
+such as SHAPE data.
+
+In the video below,
+the `Bases by Data` form
+is used to color the bases of a hairpin
+according to some example chemical probing data.
+First bases with low reactivity (values between 0 and 0.2) are colored black.
+Then bases with mild reactivity (values between 0.21 and 0.6) are colored green.
+Then bases with moderate reactivity (values between 0.61 and 0.8) are colored orange.
+And finally bases with high reactivity (values between 0.81 and 1.2) are colored red.
+
+https://user-images.githubusercontent.com/28662629/204619525-cca12f8f-f582-4c2c-8331-b886badf0528.mov
 
 ## Strung Elements and Non-Canonical Base-Pairs
 
