@@ -48,6 +48,7 @@ If you have questions, find issues, or have feature requests, email [contact@rna
 * [Straightening Stacked Stems](#straightening-stacked-stems)
 * [Line Drawings](#line-drawings)
 * [Outlining Subsequences of Bases](#outlining-subsequences-of-bases)
+* [Stick-and-Ball Drawings](#stick-and-ball-drawings)
 * [Motif Finding](#motif-finding)
 * [Frequently Asked Questions](#frequently-asked-questions)
 * [Funding](#funding)
@@ -401,6 +402,10 @@ of primary bonds and strung elements
 and the outlines of individual bases.
 
 https://user-images.githubusercontent.com/28662629/204053764-1df8f527-be49-4abb-8e93-1965c41a2e20.mov
+
+## Stick-and-Ball Drawings
+
+https://user-images.githubusercontent.com/28662629/205112089-e70ebca1-e142-4c40-9c15-74d708251118.mov
 
 ## Motif Finding
 
