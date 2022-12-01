@@ -405,6 +405,10 @@ https://user-images.githubusercontent.com/28662629/204053764-1df8f527-be49-4abb-
 
 ## Stick-and-Ball Drawings
 
+<p align="center" >
+  <img width="775px" src="https://user-images.githubusercontent.com/28662629/205152368-f7eb23bf-1084-4e5d-bfe1-6e735a2b295a.svg" />
+</p>
+
 One way to draw structural features (e.g., hairpins)
 in a stick-and-ball manner
 is shown in the video below.
