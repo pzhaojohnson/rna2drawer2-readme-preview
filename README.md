@@ -405,6 +405,29 @@ https://user-images.githubusercontent.com/28662629/204053764-1df8f527-be49-4abb-
 
 ## Stick-and-Ball Drawings
 
+One way to draw structural features (e.g., hairpins)
+in a stick-and-ball manner
+is shown in the video below.
+
+First the base letters of the structure are made invisible
+(by making them white).
+
+Then secondary bonds are made much wider (line width of 16)
+so that they overlap
+and shorter (base padding of 12)
+to give stems of the structure a "stick" appearance.
+
+Circle strung elements are then added,
+sized to match the loops of the structure,
+and dragged over the loops of the structure.
+
+The bottommost secondary bond of the structure
+is also made slightly thinner (line width of 12)
+and longer (base padding of 0)
+and given round line caps
+to better connect the stick-and-ball structure
+with neighboring elements.
+
 https://user-images.githubusercontent.com/28662629/205112089-e70ebca1-e142-4c40-9c15-74d708251118.mov
 
 ## Motif Finding
